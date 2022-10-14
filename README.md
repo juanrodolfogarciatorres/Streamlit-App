@@ -28,7 +28,7 @@ Después de todo esto utilizo una función para descomprimir el archivo y así o
 ## Preprocesamiento de datos
 
 A la hora de la limpieza de datos, se realiza una limpieza básica. A los valores negativos se les pone valor 0 y el resto de Na´s se omiten. Luego se utiliza un filtro para los valores 0 que no tienen sentido (como la edad) y se guardan las bases de datos limpias en nuevos archivos csv.  
-( Archivo **preparacion_datos.py**)
+Archivo **preparacion_datos.py**
 
 ## Dashboard
 
