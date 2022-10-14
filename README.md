@@ -27,7 +27,8 @@ Después de todo esto utilizo una función para descomprimir el archivo y así o
 
 ## Preprocesamiento de datos
 
-A la hora de la limpieza de datos, se realiza una limpieza básica. A los valores negativos se les pone valor 0 y el resto de Na´s se omiten. Luego se utiliza un filtro para los valores 0 que no tienen sentido (como la edad) y se guardan las bases de datos limpias en nuevos archivos csv. ( Archivo **preparacion_datos.py**)
+A la hora de la limpieza de datos, se realiza una limpieza básica. A los valores negativos se les pone valor 0 y el resto de Na´s se omiten. Luego se utiliza un filtro para los valores 0 que no tienen sentido (como la edad) y se guardan las bases de datos limpias en nuevos archivos csv.  
+( Archivo **preparacion_datos.py**)
 
 ## Dashboard
 
@@ -38,6 +39,8 @@ En la segunda página se muestra la participación de las federaciones, así com
 
 En la tercera página se analiza a los participantes, así como la edad y el peso que levantan según ejercicio o género.
 
-Y, la última página, trata de descubrir si influye el equipamiento a la hora de realizar los ejercicios, tanto de manera global como de manera individual cada ejercicio.
-Archivo **app_functions.py**.
+Y, la última página, trata de descubrir si influye el equipamiento a la hora de realizar los ejercicios, tanto de manera global como de manera individual cada ejercicio.  
+
+Archivo **app_functions.py**.  
+
 Archivo **VisDin.py**.
